@@ -8,7 +8,6 @@ Este repositório contém todos os exercícios e listas de exercícios realizado
 
 - [Lista 00 - Conceitos Básicos](https://github.com/righigor/aeds-I/tree/main/lista-00)
 
-
 ## Listas Avaliativas
 
 - [Lista de exercícios 3](https://github.com/righigor/aeds-I/tree/main/lista-03-avaliativa)
