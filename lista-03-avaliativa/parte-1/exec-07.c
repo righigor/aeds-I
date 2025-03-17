@@ -1,5 +1,3 @@
-#include<stdio.h>
-
 // Questão 07
 
 // ALGORITMO 1
