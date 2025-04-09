@@ -1,0 +1,35 @@
+# Ignora arquivos executáveis
+*.exe
+*.out
+*.o
+*.obj
+*.gch
+*.a
+*.so
+*.dll
+*a.out
+*.out
+*.o
+
+# Ignora arquivos de backup ou temporários comuns em editores
+*~
+*.swp
+*.tmp
+*.bak
+
+# Ignora pastas comuns de build
+/build/
+/bin/
+/debug/
+/release/
+
+# Ignora arquivos do VS Code (caso use)
+.vscode/
+
+# Ignora arquivos do CLion/JetBrains (caso use)
+.idea/
+cmake-build-*/
+
+# Ignora logs e dumps
+*.log
+*.core
