@@ -24,7 +24,7 @@ Este diretório contém as resoluções da **Lista de Exercícios 05** da discip
 Execute os arquivos individualmente usando o compilador `gcc`:
 
 ```bash
-gcc exec-01.c -o exec-01
+gcc exec-01.c -o exec-01 -lm
 ./exec-01
 ```
 
