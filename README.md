@@ -14,10 +14,12 @@ Este repositório contém resoluções das listas propostas ao longo da discipli
 
 ## Listas de Exercícios
 
-- [Lista 00 - Conceitos Básicos](https://github.com/righigor/aeds-I/tree/main/lista-00)
+- [Lista 01 - Conceitos Básicos](https://github.com/righigor/aeds-I/tree/main/lista-01)
 - [Lista 02 - Estruturas Condicionais em C](https://github.com/righigor/aeds-I/tree/main/lista-02)
 - [Lista 03 - While e Do While](https://github.com/righigor/aeds-I/tree/main/lista-03)
 - [Lista 04 - Funções em C](https://github.com/righigor/aeds-I/tree/main/lista-04)
+- [Lista 05 - Vetores e Matrizes](https://github.com/righigor/aeds-I/tree/main/lista-05)
+- [Lista 06 - Funções, Vetores, Strings, Matrizes e Registros](https://github.com/righigor/aeds-I/tree/main/lista-06)
 
 ## Listas Avaliativas
 
