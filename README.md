@@ -23,7 +23,8 @@ Este repositório contém resoluções das listas propostas ao longo da discipli
 
 ## Listas Avaliativas
 
-- [Lista de exercícios 3](https://github.com/righigor/aeds-I/tree/main/lista-03-avaliativa)
+- [Lista de exercícios 1](https://github.com/righigor/aeds-I/tree/main/lista-01-avaliativa)
+- [Lista de exercícios 2](https://github.com/righigor/aeds-I/tree/main/lista-02-avaliativa)
 
 ## 📂 Estrutura do Projeto
 
