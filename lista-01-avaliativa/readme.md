@@ -1,10 +1,10 @@
-# 📘 Lista de Exercícios 03 – Lista Avaliativa
+# 📘 Lista de Exercícios 01 – Lista Avaliativa
 
-Este diretório contém as resoluções da **Lista de Exercícios 03** da disciplina **Algoritmos e Estrutura de Dados I** (PUC Minas). Os exercícios foram implementados em linguagem **C**, com foco no desenvolvimento de lógica, uso de ponteiros, estruturas, e manipulação de dados.
+Este diretório contém as resoluções da **Lista de Exercícios 01** da disciplina **Algoritmos e Estrutura de Dados I** (PUC Minas). Os exercícios foram implementados em linguagem **C**, com foco no desenvolvimento de lógica, uso de ponteiros, estruturas, e manipulação de dados.
 
 ## 🗂️ Estrutura da pasta
 
-- `lista-03.pdf` – Arquivo original da lista de exercícios fornecida pelo professor  
+- `lista-01.pdf` – Arquivo original da lista de exercícios fornecida pelo professor  
 - `exec-01.c`, `exec-02.c`, ... – Arquivos com os códigos-fonte de cada exercício  
 - `README.md` – Este arquivo com informações sobre a lista
 
