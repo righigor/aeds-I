@@ -22,6 +22,7 @@ Este repositório contém resoluções das listas propostas ao longo da discipli
 - [Lista 06 - Funções, Vetores, Strings, Matrizes e Registros](https://github.com/righigor/aeds-I/tree/main/lista-06)
 - [Lista 07 - Registros em C](https://github.com/righigor/aeds-I/tree/main/lista-07)
 - [Lista 08 - Arquivos em C](https://github.com/righigor/aeds-I/tree/main/lista-08)
+- [Lista 09 - Recursão](https://github.com/righigor/aeds-I/tree/main/lista-09)
 
 
 ## Listas Avaliativas
