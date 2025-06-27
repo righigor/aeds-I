@@ -3,6 +3,7 @@
 Repositório destinado à organização das **listas de exercícios da disciplina de Algoritmos e Estruturas de Dados I** em linguagem **C**, abordando desde conceitos básicos de lógica até práticas com estruturas de repetição, decisões condicionais, e algoritmos clássicos.
 
 ![C Badge](https://img.shields.io/badge/language-C-blue)
+![C++ Badge](https://img.shields.io/badge/language-C++-blue)
 
 ## 📚 Sobre o Repositório
 
@@ -28,6 +29,12 @@ Este repositório contém resoluções das listas propostas ao longo da discipli
 
 - [Lista de exercícios 1](https://github.com/righigor/aeds-I/tree/main/lista-01-avaliativa)
 - [Lista de exercícios 2](https://github.com/righigor/aeds-I/tree/main/lista-02-avaliativa)
+- [Lista de exercícios 3](https://github.com/righigor/aeds-I/tree/main/lista-03-avaliativa)
+- [Lista de exercícios 4](https://github.com/righigor/aeds-I/tree/main/lista-04-avaliativa)
+
+## Listas Plataforma Verde
+
+- [Lista de exercícios 1](https://github.com/righigor/aeds-I/tree/main/listas-verde/lista-01)
 
 ## 📂 Estrutura do Projeto
 
