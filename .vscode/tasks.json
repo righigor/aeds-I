@@ -1,8 +1,9 @@
 {
+  "version": "2.0.0",
   "tasks": [
     {
       "type": "cppbuild",
-      "label": "C/C++: gcc arquivo de build ativo",
+      "label": "C: gcc arquivo de build ativo",
       "command": "/usr/bin/gcc",
       "args": [
         "-fdiagnostics-color=always",
@@ -14,15 +15,33 @@
       "options": {
         "cwd": "${fileDirname}"
       },
-      "problemMatcher": [
-        "$gcc"
+      "problemMatcher": ["$gcc"],
+      "group": {
+        "kind": "build",
+        "isDefault": false
+      },
+      "detail": "Compilação de arquivos C com gcc"
+    },
+    {
+      "type": "cppbuild",
+      "label": "C++: g++ arquivo de build ativo",
+      "command": "/usr/bin/g++",
+      "args": [
+        "-fdiagnostics-color=always",
+        "-g",
+        "${file}",
+        "-o",
+        "${fileDirname}/${fileBasenameNoExtension}"
       ],
+      "options": {
+        "cwd": "${fileDirname}"
+      },
+      "problemMatcher": ["$gcc"],
       "group": {
         "kind": "build",
         "isDefault": true
       },
-      "detail": "Tarefa gerada pelo Depurador."
+      "detail": "Compilação de arquivos C++ com g++"
     }
-  ],
-  "version": "2.0.0"
+  ]
 }
