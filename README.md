@@ -11,8 +11,6 @@ Este repositório contém resoluções das listas propostas ao longo da discipli
 
 > As listas foram desenvolvidas com foco na prática de algoritmos fundamentais em linguagem C, consolidando o aprendizado de estruturas de controle, variáveis, laços de repetição, entrada e saída de dados, entre outros.
 
-
-
 ## Listas de Exercícios
 
 - [Lista 01 - Conceitos Básicos](https://github.com/righigor/aeds-I/tree/main/lista-01)
@@ -35,6 +33,16 @@ Este repositório contém resoluções das listas propostas ao longo da discipli
 ## Listas Plataforma Verde
 
 - [Lista de exercícios 1](https://github.com/righigor/aeds-I/tree/main/listas-verde/lista-01)
+
+## Trabalho Prático
+
+O trabalho prático final da disciplina **Algoritmos e Estruturas de Dados I** consiste na implementação de um projeto que envolva a aplicação dos conceitos aprendidos ao longo do curso. Os alunos devem desenvolver uma solução completa para um problema específico, utilizando as estruturas de dados e algoritmos estudados.
+
+O sistema simula a logística de entrega de mercadorias, com foco na manipulação eficiente de dados, estruturas como vetores e arquivos binários, e implementação de um algoritmo simples de roteamento baseado em distância euclidiana.
+
+O trabalho foi feito em colaboração com outro aluno, [Zaine Mendes](https://github.com/zainemt).
+
+O repositório contém a implementação completa do projeto, incluindo todos os arquivos fonte e documentação necessária para a compreensão do sistema se encontra em [SLEM - TP](https://github.com/righigor/tp-aeds-slem).
 
 ## 📂 Estrutura do Projeto
 
